@@ -1,0 +1,8 @@
+{
+  "name": "Placement Preparation Agent",
+  "description": "An AI-powered placement preparation platform featuring Aptitude, Coding, Technical, and HR Interview practice, Resume Review with ATS grading, daily streaks, leaderboards, and personalized guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

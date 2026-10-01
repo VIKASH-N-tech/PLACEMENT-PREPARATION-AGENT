@@ -1,0 +1,64 @@
+[
+  {
+    "id": "usr_demo_candidate_sde",
+    "email": "demo@placementprep.ai",
+    "passwordHash": "565690fcaafe2052a2876408948a7887df991a5be3f51aeafa2d80bce4799cddfab6714e5c64c05829a60d66634954cd1b005bd317c877a636c5cb18fa88a495",
+    "salt": "09b6f5f1f7ffede86de8a83547a49946",
+    "profile": {
+      "name": "Alex Rivera",
+      "email": "demo@placementprep.ai",
+      "targetRole": "Software Development Engineer (SDE)",
+      "preferredLanguage": "python",
+      "xp": 450,
+      "currentStreak": 4,
+      "longestStreak": 12,
+      "completedQuizzes": 3,
+      "completedCoding": 5,
+      "completedInterviews": 2,
+      "weakTopics": [
+        {
+          "topic": "Quantitative Aptitude",
+          "score": 68
+        },
+        {
+          "topic": "Logical Reasoning",
+          "score": 75
+        },
+        {
+          "topic": "Verbal Ability",
+          "score": 62
+        }
+      ],
+      "history": [
+        {
+          "id": "hist_init_auth",
+          "type": "resume",
+          "title": "Candidate Account Registered",
+          "score": "Completed",
+          "date": "07/07/2026"
+        },
+        {
+          "id": "hist_resume_opt",
+          "type": "resume",
+          "title": "Google SDE Resume Evaluation",
+          "score": "88/100",
+          "date": "07/07/2026"
+        },
+        {
+          "id": "hist_coding_dsa",
+          "type": "coding",
+          "title": "Two Sum (Array Hashmap)",
+          "score": "100/100",
+          "date": "07/06/2026"
+        }
+      ],
+      "theme": "dark",
+      "studySchedule": {
+        "aptitudeGoal": 5,
+        "codingGoal": 3,
+        "aptitudeDone": 2,
+        "codingDone": 1
+      }
+    }
+  }
+]
