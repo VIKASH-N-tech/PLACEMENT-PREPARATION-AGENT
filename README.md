@@ -226,7 +226,7 @@ Test API endpoints, AI service error handling, resume uploads, aptitude scoring,
 
 **Your Name**
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/VIKASH-N-tech
 
 ## License
 
